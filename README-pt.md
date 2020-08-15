@@ -1,8 +1,8 @@
-<!--
+
 <p align="center">
    <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/logo.png" alt="Proffy" width="280"/>
 </p>
--->
+
 
 
 > :rocket: Projeto feito para conectar professores e estudantes, feito na Next Level Week #2 @Rocketseat
