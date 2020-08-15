@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.png" alt="Proffy" width="280"/>
+   ![Proffy](https://github.com/CrisPer12/Proffy-Student/blob/master/logo.png) width="280"/>
 </p>
 
 
