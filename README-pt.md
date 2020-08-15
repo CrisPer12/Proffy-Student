@@ -21,23 +21,23 @@
 * [Como rodar](#construction_worker-como-rodar)
 
 
-<!--
+
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="./.github/web-landing.png" width="400px">
-   <img src="./.github/web-list.png" width="400px">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/web-landing.png" width="400px">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/web-list.png" width="400px">
 </div>
--->
 
-<!--
+
+
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
-   <img src="./.github/mobile-splash.png" width="180">
-   <img src="./.github/mobile-onboarding.png" width="180">
-   <img src="./.github/mobile-home.png" width="180">
-   <img src="./.github/mobile-favoritos.png" width="180">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/mobile-splash.png" width="180">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/mobile-onboarding.png" width="180">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/mobile-home.png" width="180">
+   <img src="https://github.com/CrisPer12/Proffy-Student/blob/master/mobile-favoritos.png" width="180">
 </div>
--->
+
 
 # :computer: Tecnologias
 Abaixo as tecnologias utilizadas no projeto:
