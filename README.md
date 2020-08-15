@@ -1,6 +1,8 @@
+<!--
 <p align="center">
    <img src="./.github/logo.png" alt="Proffy" width="280"/>
 </p>
+-->
 
 
 
@@ -17,13 +19,15 @@
 * [Features](#rocket-features)
 * [How to Run](#construction_worker-how-to-run)
 
-
+<!--
 ### Web Screenshot
 <div>
    <img src="./.github/web-landing.png" width="400px">
    <img src="./.github/web-list.png" width="400px">
 </div>
+-->
 
+<!--
 ### Mobile Screenshot
 <div>
    <img src="./.github/mobile-splash.png" width="180">
@@ -31,6 +35,7 @@
    <img src="./.github/mobile-home.png" width="180">
    <img src="./.github/mobile-favoritos.png" width="180">
 </div>
+-->
 
 # :computer: Technologies
 This project was made using the follow technologies:
